@@ -5,22 +5,22 @@ const cors = require('cors');
 const continents = [
     {
         name: 'Africa',
-        countries: [{name: 'Livia', capital: 'dcscsdc'}]
+        countries: [{name: 'Livia', capital: 'Tripoli'}]
     },
 
     {
         name: 'Australia',
-        countries: [{name: 'Australia', capital: 'dcscsdc'}]
+        countries: [{name: 'Australia', capital: 'Canbera'}]
     },
 
     {
         name: 'Antarctica',
-        countries: [{name: 'no-country', capital: 'dcscsdc'}]
+        countries: [{name: 'no-country', capital: 'no-capital'}]
     },
 
     {
         name: 'Euro-Asia',
-        countries: [{name: 'Livia', capital: 'dcscsdc'}]
+        countries: [{name: 'Ukraine', capital: 'Kiev'}]
     }
 ]
 
